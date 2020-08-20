@@ -1,0 +1,44 @@
+html,
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    padding-bottom: 1em !important;
+    word-spacing: -0.4px !important;
+    font-family: 'Crimson Text', serif;
+}
+
+button {
+    border-radius: 36px !important;
+    transition: transform 0.2s !important;
+    font-weight: bold;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+div {
+    white-space: "pre-wrap";
+    padding-top: 0.5em;
+}
+
+.url {
+    text-decoration: underline !important;
+    color: #0000ff !important;
+}
+
+.nav-link {
+    cursor: pointer;
+}
+
+.primary {
+    background-color: #800040 !important;
+    border-color: #800040 !important;
+}
+
+.my-header {
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 0% !important;
+    color: #800040;
+}

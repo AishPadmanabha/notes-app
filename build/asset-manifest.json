@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/static/css/main.dc1d7b0a.chunk.css",
+    "main.js": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/static/js/main.cddc6654.chunk.js",
+    "main.js.map": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/static/js/main.cddc6654.chunk.js.map",
+    "runtime-main.js": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/static/js/runtime-main.a5718640.js",
+    "runtime-main.js.map": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/static/js/runtime-main.a5718640.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.36998c77.chunk.js": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/static/js/2.36998c77.chunk.js",
+    "static/js/2.36998c77.chunk.js.map": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/static/js/2.36998c77.chunk.js.map",
+    "index.html": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/index.html",
+    "precache-manifest.6a0d1d1e2df628dd7378494c6229446e.js": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/precache-manifest.6a0d1d1e2df628dd7378494c6229446e.js",
+    "service-worker.js": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.dc1d7b0a.chunk.css.map": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/static/css/main.dc1d7b0a.chunk.css.map",
+    "static/js/2.36998c77.chunk.js.LICENSE.txt": "/cs7580su20-seattle/Aishwarya_Padmanabha_Assignment2/static/js/2.36998c77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5718640.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.36998c77.chunk.js",
+    "static/css/main.dc1d7b0a.chunk.css",
+    "static/js/main.cddc6654.chunk.js"
+  ]
+}
